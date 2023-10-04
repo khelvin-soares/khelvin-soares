@@ -22,7 +22,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=JavaScript&labelColor=0D1117)&nbsp;
 
-### Ferramentas:
+### Ferramentas
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
