@@ -34,6 +34,8 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-0D1117?style=for-the-badge&logo=markdown&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
+---
+
 <div align="center">
   <a href="mailto: kelvinsoarescontato@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kelvin Soares E-mail"></a>
   <a href="https://khelvin-soares.vercel.app/" target="_blank" rel="external"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Kelvin Soares Portfólio"></a>
