@@ -13,7 +13,7 @@
 ### Sobre mim
 
 <div align="justify">  
-  Olá! Sou Kelvin Soares, sou um Desenvolvedor Web focado em Front-End. Tenho habilidades suficientes para atuar como desenvolvedor front-end. Desenvolvo sites responsivos utilizando as tecnologias básicas da web (HTML5, CSS3 e JavaScript).
+  Olá! Sou Kelvin Soares, um Desenvolvedor Web focado em Front-End. Tenho habilidades suficientes para atuar como desenvolvedor front-end. Desenvolvo sites responsivos utilizando as tecnologias básicas da web (HTML5, CSS3 e JavaScript).
 </div>
 
 ### Principais competências:
