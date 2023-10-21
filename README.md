@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/khelvin-soares">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=khelvin-soares&show_icons=true&count_private=true&hide_border=true&title_color=03A5FA&icon_color=03A5FA&text_color=ffffff&bg_color=0d111700" alt="Kelvin Soares Stats"/> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelvin-soares&layout=compact&hide_border=true&title_color=03A5FA&text_color=ffffff&bg_color=0d111700" alt="Kelvin Soares Stats"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=khelvin-soares&show_icons=true&count_private=true&hide_border=true&title_color=03A5FA&icon_color=03A5FA&text_color=ffffff&bg_color=0d1117" alt="Kelvin Soares Stats"/> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelvin-soares&layout=compact&hide_border=true&title_color=03A5FA&text_color=ffffff&bg_color=0d1117" alt="Kelvin Soares Stats"/>
   </a>
 </div>
 
