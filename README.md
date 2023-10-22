@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="mailto: kelvinsoarescontato@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kelvin Soares E-mail"></a>
-  <a href="https://khelvin-soares.vercel.app/" target="_blank" rel="external"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Kelvin Soares Portfólio"></a>
+  <a href="https://khelvin-soares.vercel.app/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Icon Portfólio"></a>
   <a href="https://khelvin-soares.github.io" target="_blank" rel="external"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Kelvin Soares GitHub"></a>
   <a href="https://www.linkedin.com/in/khelvin-soares/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kelvin Soares LinkedIn"></a>
   <a href="https://www.instagram.com/khelvin.soares/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kelvin Soares Instagram"></a>
