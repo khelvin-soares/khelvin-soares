@@ -135,7 +135,7 @@ Estou sempre aberto a conhecer pessoas, compartilhar experiências, conversar so
 <a href="https://www.instagram.com/khelvin.soares" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-@khelvin.soares-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Meu Instagram"/>
 </a>
-<a href="https://www.linkedin.com/in/khelvin-soares" target="_blank">
+<a href="https://www.linkedin.com/in/khelvinsoares" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Khelvin%20Soares-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/>
 </a>
 
